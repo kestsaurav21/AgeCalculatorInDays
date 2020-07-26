@@ -1,4 +1,4 @@
-//Challenge 1: Your Age in Da
+//Challenge 1: Your Age in Days
 
 function ageInDays() {
     var birthYear = prompt("What is your BirthYear ?");
